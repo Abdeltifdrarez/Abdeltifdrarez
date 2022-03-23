@@ -8,11 +8,9 @@
 
 * 💻 I'm a full stack web developer
 * 🎨 I'm a UI & UX designer
-<!-- * 📱 I make apps for Android and iOS -->
 * 🎓 I'm a Computer Science student 
 * 🌐 You can see some of my projects on [my portfolio](#)
-
-<
+<!-- * 📱 I make apps for Android and iOS -->
 
 ## 👨‍💻 Languages and Tools:
 
